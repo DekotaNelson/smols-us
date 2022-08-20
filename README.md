@@ -1,7 +1,11 @@
 # Smols Us 
 Sometimes you need a small url. No matter the reason you need that url to be small, you need it to be reliable, consistent, and preferably without being drowned in advertisements while you're at it. Well do I have the solution for you! The Smols Us web app does exactly that!  All one has to do is enter the full length url, hit the button, and just like that it 'smols' it for you! Now go forth and smols all of your urls as the best url is a smols one.
 
-Link to live demo of project: http://thought-exchanger.herokuapp.com/
+Link to live demo of project: https://smols-us.herokuapp.com/
+
+<p align="center">
+  <img src="https://drive.google.com/uc?id=11Q3ab_tLHzaVCEmMRFAfk-hup6qNbarw" alt="Smols Us home page" />
+</p>
 
 # How It's Made:
 Tech used: JavaScript, Node, Express, MongoDB, Heroku, CRUD, HTML, and CSS
